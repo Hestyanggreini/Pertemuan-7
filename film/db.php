@@ -1,3 +1,3 @@
 <?php
-// $conn = mysqli_connect('localhost', '202410101122', 'secret', 'uas202410101122');
-$conn = mysqli_connect('localhost', 'root', '', 'sakila');
+$conn = mysqli_connect('localhost', '202410101134', 'secret', 'uas202410101134');
+//$conn = mysqli_connect('localhost', 'root', '', 'sakila');
